@@ -1,0 +1,43 @@
+.shop {
+  background-color: #72838a; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 680px;
+  border-radius: 20px;
+  font-family: sans-serif;
+}
+.who {
+  width: 1920px;
+  height: 941px;
+  background-color: #72838a;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  h1 {
+    padding-top: 100px;
+    margin-left: 420px;
+    color: white;
+    font-size: 114px;
+    font-family: sans-serif;
+  }
+  p {
+    margin-left: 200px;
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+  }
+}
+.phone {
+  position: relative;
+  top: 100px;
+}
+.head {
+  position: relative;
+  left: 710px;
+  bottom: 446px;
+}

@@ -1,0 +1,41 @@
+.recommended {
+  width: 1920px;
+  height: 941px;
+  background-color: #72838a;
+
+  &__button {
+    margin-left: 160px;
+    background-color: #ffffff;
+    border: none;
+    color: #72838a;
+    padding: 15px 20px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    border-radius: 20px;
+  }
+  &__headphones {
+    top: 100px;
+    left: 600px;
+    position: relative;
+    h2 {
+      padding-left: 50px;
+      color: white;
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    }
+    p {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      color: white;
+      padding-left: 180px;
+    }
+  }
+  h1 {
+    position: relative;
+    left: 250px;
+    font-size: 100px;
+    top: 100px;
+    color: white;
+    font-family: sans-serif;
+  }
+}

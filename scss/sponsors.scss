@@ -1,0 +1,17 @@
+.sponsors {
+  width: 1920px;
+  height: 941px;
+  h1 {
+    background-color: #72838a;
+    width: 1920px;
+    height: 195px;
+    padding-left: 20px;
+    color: white;
+    font-size: 45px;
+    padding-top: 90px;
+    font-family: sans-serif;
+  }
+  &__spons {
+    padding-left: 150px;
+  }
+}

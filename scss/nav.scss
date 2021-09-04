@@ -1,0 +1,35 @@
+.nav {
+  &__links {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 300px;
+    font-size: 62px;
+    position: absolute; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    background-color: #72838a;
+    font-family: sans-serif;
+  }
+  &__hero {
+    width: 1920px;
+    height: 941px;
+    background-image: url(../images/pexels-karolina-grabowska-4887211.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 10px;
+    h1 {
+      margin-left: 500px;
+      margin-top: 100px;
+      color: white;
+      font-size: 229px;
+      font-family: sans-serif;
+    }
+    h2 {
+      margin-left: 400px;
+      color: white;
+      font-size: 71px;
+      font-family: sans-serif;
+    }
+  }
+}
